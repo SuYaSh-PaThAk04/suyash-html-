@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            border: 4cmm salmon;
+            border-style: double;
+           padding-right: 50%;
+            box-sizing: border-box;
+            background-color: blue;
+
+
+
+        }
+    </style>
+</head>
+<body>
+    <h1> help</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam eius nihil itaque, facere dignissimos corrupti blanditiis vel labore ullam excepturi at, nemo beatae exercitationem eligendi assumenda quis. Sed, dolorum autem!
+
+    </p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, harum hic voluptatem vitae possimus delectus cum dolorum itaque, odit reiciendis ex est eaque. Iste non excepturi dolore alias harum rem!</p>
+
+</body>
+</html>
