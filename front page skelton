@@ -1,0 +1,129 @@
+//Front page skelton //
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Web Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            display: flex;
+            flex-direction: column;
+           
+        }
+
+        .taskbar {
+            width: 10px;
+            background-color: #a63131;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            display: none;
+            top: 0;
+            left: 0;
+            border: 5px blue;
+            border-width: 5px;
+            border-left: 0;
+        }
+
+        .header {
+            background-color: #f2f2f2;
+            background-color: blanchedalmond;
+            color: #050101;
+            text-align: center;
+            padding: 20px 0;
+            flex: 1;
+            height: fit-content;
+        }
+
+        .header h1 {
+            margin: 0;
+        }
+
+        .header .bell-button {
+            float: left;
+            margin-left: 20px;
+            background-color: #fff;
+            color: #333;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 50%;
+        }
+
+        .nav {
+            text-align: left;
+            padding: 10px 20px;
+        }
+
+        .nav .home-button {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+        .center-content {
+            text-align: center;
+            padding: 40px;
+        }
+
+        .center-content button {
+            background-color: #333;
+            color: #fff;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 50%;
+            margin: 10px;
+            cursor: pointer;
+        }
+
+        .faq {
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <button id="toggleTaskbar">Toggle Taskbar</button>
+    <div class="taskbar" id="taskbar">
+      <align="left">
+        <ul>
+            <li><a href="#">Task 1</a></li>
+            <li><a href="#">Task 2</a></li>
+            <li><a href="#">Task 3</a></li>
+        </ul>
+    </div>
+    <div class="header">
+        <button class="bell-button">🔔</button>
+        <h1>Your Heading</h1>
+    </div>
+    <div class="nav">
+        <a class="home-button" href="#">Home</a>
+    </div>
+    <div class="center-content">
+        <button>Button 1</button>
+        <button>Button 2</button>
+        <button>Button 3</button>
+    </align>
+    </div>
+    <div class="faq">
+        <h2>FAQ</h2>
+        <p>Here is some frequently asked questions content.</p>
+    </div>
+    <script>
+        const toggleTaskbarButton = document.getElementById('toggleTaskbar');
+        const taskbar = document.getElementById('taskbar');
+
+        toggleTaskbarButton.addEventListener('click', () => {
+            taskbar.style.display = taskbar.style.display === 'none' ? 'block' : 'none';
+        });
+        </script>
+        </body>
+        </html>
